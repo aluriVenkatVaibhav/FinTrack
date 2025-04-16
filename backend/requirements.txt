@@ -1,0 +1,7 @@
+fastapi[standard]
+pydantic
+pydantic[email]
+mysql-connector-python
+colorama 
+python-dotenv 
+PyJWT
